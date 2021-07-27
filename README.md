@@ -3,7 +3,7 @@
 You can find here a list of common image super resolution datasets on [`huggingface datasets`](https://huggingface.co/datasets?filter=task_ids:other-other-image-super-resolution) 
 for use with the [`super-image`](https://github.com/eugenesiow/super-image) library.
 
-### Datasets
+## Datasets
 
 | dataset  |train |validation|test|
 |-------|-----:|---:|---:|
@@ -13,7 +13,11 @@ for use with the [`super-image`](https://github.com/eugenesiow/super-image) libr
 |[BSD100](https://huggingface.co/datasets/eugenesiow/BSD100)|-|100|-|
 |[Urban100](https://huggingface.co/datasets/eugenesiow/Urban100)|-|100|-|
 
-### Quick Start
+## Quick Start
+
+Quickly evaluate models on super image resolution datasets.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugenesiow/super-image-notebooks/blob/master/notebooks/Evaluate_Pretrained_super_image_Models.ipynb "Open in Colab")
 
 Install with `pip`:
 ```bash
