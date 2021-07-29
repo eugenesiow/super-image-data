@@ -12,6 +12,7 @@ for use with the [`super-image`](https://github.com/eugenesiow/super-image) libr
 |[Set14](https://huggingface.co/datasets/eugenesiow/Set14)|-|14|-|
 |[BSD100](https://huggingface.co/datasets/eugenesiow/BSD100)|-|100|-|
 |[Urban100](https://huggingface.co/datasets/eugenesiow/Urban100)|-|100|-|
+|[PIRM](https://huggingface.co/datasets/eugenesiow/PIRM)|-|100|100|
 
 ## Quick Start
 
