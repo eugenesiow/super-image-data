@@ -6,7 +6,7 @@ from datasets import load_dataset
 # dataset = load_dataset('./Div2k', 'bicubic_x2', split='validation')
 # dataset = load_dataset('eugenesiow/Div2k', 'bicubic_x2', split='validation')
 # dataset = load_dataset('eugenesiow/Div2k', split='validation')
-dataset = load_dataset('./Set5', 'bicubic_x2', split='validation')
+dataset = load_dataset('eugenesiow/PIRM', 'bicubic_x2', split='validation')
 
 # print(dataset)
 # print(f"👉 Dataset len(dataset): {len(dataset)}")

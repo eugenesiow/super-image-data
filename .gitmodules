@@ -13,3 +13,6 @@
 [submodule "Set14"]
 	path = Set14
 	url = https://huggingface.co/datasets/eugenesiow/Set14
+[submodule "PIRM"]
+	path = PIRM
+	url = https://huggingface.co/datasets/eugenesiow/PIRM

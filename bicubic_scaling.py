@@ -19,4 +19,6 @@ def bicubic_scaling(input_dir, scales):
 # bicubic_scaling('./data/Set5', [2, 3, 4])
 # bicubic_scaling('./data/Set14', [2, 3, 4])
 # bicubic_scaling('./data/BSD100', [2, 3, 4])
-bicubic_scaling('./data/Urban100', [2, 3, 4])
+# bicubic_scaling('./data/Urban100', [2, 3, 4])
+bicubic_scaling('./data/PIRM_valid', [2, 3, 4])
+bicubic_scaling('./data/PIRM_test', [2, 3, 4])
